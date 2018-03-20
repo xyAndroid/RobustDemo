@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="J:\AndroidStudioProjects\MyHotDemo\patch\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="J:\AndroidStudioProjects\MyHotDemo\patch\src\androidTest\assets"/><source path="J:\AndroidStudioProjects\MyHotDemo\patch\build\generated\assets\shaders\androidTest\debug"/></dataSet></merger>

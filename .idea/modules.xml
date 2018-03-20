@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyHotDemo.iml" filepath="$PROJECT_DIR$/MyHotDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auto-patch-plugin/auto-patch-plugin.iml" filepath="$PROJECT_DIR$/auto-patch-plugin/auto-patch-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autopatchbase/autopatchbase.iml" filepath="$PROJECT_DIR$/autopatchbase/autopatchbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gradle-plugin/gradle-plugin.iml" filepath="$PROJECT_DIR$/gradle-plugin/gradle-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/mylibrary/mylibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patch/patch.iml" filepath="$PROJECT_DIR$/patch/patch.iml" />
+    </modules>
+  </component>
+</project>
